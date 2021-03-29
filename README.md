@@ -22,6 +22,7 @@ It's a repository gathering resources about UI/UX.
 # Authors & Books
 ## Alan Cooper
 > About Face
+> The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity
 
 ## Brad Frost
 > Atomic Design
