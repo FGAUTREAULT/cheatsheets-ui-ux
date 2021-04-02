@@ -4,9 +4,9 @@ It's a repository gathering resources about UI/UX.
 
 # Learning
 ## Path
-> _https://github.com/togiberlin/ui-ux-designer-roadmap_
-
-> _https://bootcamp.uxdesign.cc/the-self-taught-ui-ux-designer-roadmap-in-2021-aa0f5b62cecb?s=09_
+> _https://github.com/togiberlin/ui-ux-designer-roadmap_  
+> _https://bootcamp.uxdesign.cc/the-self-taught-ui-ux-designer-roadmap-in-2021-aa0f5b62cecb?s=09_  
+> _https://uxchecklist.github.io/_  
 
 ## Principles
 ### Gestlat
@@ -42,8 +42,7 @@ It's a repository gathering resources about UI/UX.
 > Don't make me think
 
 ## Susan Weinschenk
-> 100 Things Every Designer Needs to Know About People 👍
-
+> 100 Things Every Designer Needs to Know About People 👍  
 > 100 MORE Things Every Designer Needs to Know About People
 
 
