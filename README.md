@@ -21,28 +21,28 @@ It's a repository gathering resources about UI/UX.
 
 # Authors & Books
 ## Alan Cooper
-> About Face
-> The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity
+> About Face  
+> The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity  
 
 ## Brad Frost
-> Atomic Design
+> Atomic Design  
 
 ## Dan Saffer
-> Designing for Interaction: Creating Innovative Applications and Devices
+> Designing for Interaction: Creating Innovative Applications and Devices  
 
 ## Donald Norman
-> The Design of Everyday Things
+> The Design of Everyday Things  
 
 > Emotional Design
 
 ## Jesse James Garret
-> The Elements of User Experience: User-centered Design for the Web
+> The Elements of User Experience: User-centered Design for the Web  
 
 ## Steve Krug
-> Don't make me think
+> Don't make me think  
 
 ## Susan Weinschenk
 > 100 Things Every Designer Needs to Know About People 👍  
-> 100 MORE Things Every Designer Needs to Know About People
+> 100 MORE Things Every Designer Needs to Know About People  
 
 
