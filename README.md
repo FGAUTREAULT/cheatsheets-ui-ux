@@ -31,18 +31,17 @@ It's a repository gathering resources about UI/UX.
 > Designing for Interaction: Creating Innovative Applications and Devices  
 
 ## Donald Norman
-> The Design of Everyday Things  
-
-> Emotional Design
+> The Design of Everyday Things  👍
+> Emotional Design  👍
 
 ## Jesse James Garret
 > The Elements of User Experience: User-centered Design for the Web  
 
 ## Steve Krug
-> Don't make me think  
+> Don't make me think  👍
 
 ## Susan Weinschenk
-> 100 Things Every Designer Needs to Know About People 👍  
-> 100 MORE Things Every Designer Needs to Know About People  
+> 100 Things Every Designer Needs to Know About People  👍  
+> 100 MORE Things Every Designer Needs to Know About People  👍
 
 
