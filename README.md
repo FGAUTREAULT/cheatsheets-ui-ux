@@ -32,6 +32,7 @@ It's a repository gathering resources about UI/UX.
 
 ## Fonts
 > _https://play.typedetail.com/_  
+> _https://fontspark.app/_  
 
 ## Icons
 > _https://icones.js.org/_  
