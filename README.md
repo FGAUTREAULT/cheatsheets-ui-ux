@@ -22,6 +22,14 @@ It's a repository gathering resources about UI/UX.
 > _https://github.com/thedaviddias/Front-End-Design-Checklist_  
 > _https://github.com/goabstract/Awesome-Design-Tools_  
 
+## Illustration
+> _https://www.drawkit.io/_  
+> _https://blush.design/fr_  
+> _https://usesmash.com/_  
+> _https://control.rocks/_  
+> _https://error404.fun/_  
+> _https://opendoodles.com/_  
+
 ## Fonts
 > _https://play.typedetail.com/_  
 
