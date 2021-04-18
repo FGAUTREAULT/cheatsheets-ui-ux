@@ -12,6 +12,10 @@ It's a repository gathering resources about UI/UX.
 ### Gestlat
 > _https://uxdesign.cc/how-to-enhance-your-design-with-the-gestalt-principles-of-proximity-a7828452058b?s=09_
 
+## Cheatsheets
+### Buttons
+> _https://uxdesign.cc/ui-cheat-sheets-buttons-7329ed9d6112?s=09_  
+
 
 
 # Statistics & survey
