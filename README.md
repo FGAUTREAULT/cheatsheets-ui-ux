@@ -63,10 +63,11 @@ It's a repository gathering resources about UI/UX.
 > _https://www.cssdesignawards.com/_  
 > _https://www.awwwards.com/_  
 
-## PNGs
+## Images
 > _https://www.klipartz.com/_  
 > _https://www.remove.bg/fr_  
 > _https://www.pngwing.com/_  
+> _https://www.smashingmagazine.com/2021/03/svg-generators/_  
 
 
 
