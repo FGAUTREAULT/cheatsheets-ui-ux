@@ -17,6 +17,8 @@ It's a repository gathering resources about UI/UX.
 > _https://uxdesign.cc/ui-cheat-sheets-buttons-7329ed9d6112?s=09_  
 ### Login
 > _https://uxmag.com/articles/app-login-design-choosing-the-right-user-login-option-for-your-app_  
+### Accessibility
+> _https://www.smashingmagazine.com/2021/03/complete-guide-accessible-front-end-components/_  
 
 
 
