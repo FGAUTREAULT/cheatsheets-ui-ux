@@ -25,6 +25,7 @@ It's a repository gathering resources about UI/UX.
 # UI
 > _https://github.com/thedaviddias/Front-End-Design-Checklist_  
 > _https://github.com/goabstract/Awesome-Design-Tools_  
+> _https://www.thegoodlineheight.com/_  // Calculate the good line height for visibility
 
 ## Illustration
 > _https://www.drawkit.io/_  
