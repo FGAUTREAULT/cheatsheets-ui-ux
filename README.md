@@ -23,8 +23,8 @@ It's a repository gathering resources about UI/UX.
 
 
 # UI
-> _https://github.com/thedaviddias/Front-End-Design-Checklist_  
-> _https://github.com/goabstract/Awesome-Design-Tools_  
+> _https://github.com/thedaviddias/Front-End-Design-Checklist_  // Exhaustive list to analyse and understand web designs  
+> _https://github.com/goabstract/Awesome-Design-Tools_  // UI kits, plugins and conference
 > _https://www.thegoodlineheight.com/_  // Calculate the good line height for visibility
 
 ## Illustration
