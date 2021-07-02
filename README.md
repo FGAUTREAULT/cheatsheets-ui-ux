@@ -24,16 +24,16 @@ It's a repository gathering resources about UI/UX.
 
 # UI
 > _https://github.com/thedaviddias/Front-End-Design-Checklist_  // Exhaustive list to analyse and understand web designs  
-> _https://github.com/goabstract/Awesome-Design-Tools_  // UI kits, plugins and conference
-> _https://www.thegoodlineheight.com/_  // Calculate the good line height for visibility
+> _https://github.com/goabstract/Awesome-Design-Tools_  // UI kits, plugins and conference  
+> _https://www.thegoodlineheight.com/_  // Calculate the good line height for visibility  
 
 ## Illustration
-> _https://www.drawkit.io/_  
-> _https://blush.design/fr_  
-> _https://usesmash.com/_  
-> _https://control.rocks/_  
-> _https://error404.fun/_  
-> _https://opendoodles.com/_  
+> _https://www.drawkit.io/_  // Hand-drawn vector illustration and icon  
+> _https://blush.design/fr_  // Collection of hand drawings  
+> _https://usesmash.com/_  // Colorful illustrations and trendy characters  
+> _https://control.rocks/_  // Library of illustrations with customizable style  
+> _https://error404.fun/_  // Royalty free illustrations for 404 pages  
+> _https://opendoodles.com/_  // Set of Open-Source Illustrations  
 
 ## Fonts
 > _https://play.typedetail.com/_  
