@@ -23,7 +23,7 @@ It's a repository gathering resources about UI/UX.
 
 
 # UI
-> _https://github.com/thedaviddias/Front-End-Design-Checklist_  // Exhaustive list to analyse and understand web designs  
+> _https://github.com/thedaviddias/Front-End-Design-Checklist_  // List to analyse and understand web designs  
 > _https://github.com/goabstract/Awesome-Design-Tools_  // UI kits, plugins and conference  
 > _https://www.thegoodlineheight.com/_  // Calculate the good line height for visibility  
 
@@ -46,16 +46,16 @@ It's a repository gathering resources about UI/UX.
 > _https://icons8.com/_  // Icons, illustrations, photos, music, and design tools  
 
 ## Colors
-> _https://palette.ninja/_  
-> _https://color.hailpixel.com/_  
-> _http://stylifyme.com/_  
-> _https://uigradients.com/#VirginAmerica_  
-> _https://www.colorsandfonts.com/_  
-> _https://colorhunt.co/_  
-> _https://coolors.co/_  
-> _https://htmlcolorcodes.com/fr/_  
-> _https://encycolorpedia.com/2a341c_  
-> _https://flatuicolors.com/_  
+> _https://palette.ninja/_  // Generate random harmonious color scheme  
+> _https://color.hailpixel.com/_  // Handpick and configurate a color  
+> _http://stylifyme.com/_  // Extract theme, colors, font used from a website  
+> _https://uigradients.com/#VirginAmerica_  // Visualize and pick gradient  
+> _https://www.colorsandfonts.com/_  // A collection of color and typography for Web  
+> _https://colorhunt.co/_  // Set of community popular color palettes  
+> _https://coolors.co/_  // Interactive color schemes generator  
+> _https://htmlcolorcodes.com/fr/_  // HTML, HEX, RGB, HSL and more tools around html colors  
+> _https://encycolorpedia.com/2a341c_  // Search a color and get resource sets around that  
+> _https://flatuicolors.com/_  // Flat color palettes  
 > _https://colorspark.app/_  // Playground to generate random color or gradient  
 
 ## Responsive
