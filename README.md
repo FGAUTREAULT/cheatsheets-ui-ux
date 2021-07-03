@@ -36,14 +36,14 @@ It's a repository gathering resources about UI/UX.
 > _https://opendoodles.com/_  // Set of Open-Source Illustrations  
 
 ## Fonts
-> _https://play.typedetail.com/_  
-> _https://fontspark.app/_  
+> _https://play.typedetail.com/_  // Playground for to choose fonts  
+> _https://fontspark.app/_  // Playground to generate random font  
 
 ## Icons
-> _https://icones.js.org/_  
-> _https://www.logaster.com/amp/logo/?__twitter_impression=true_  
-> _https://t.co/tVLX3iAiqi?amp=1_  
-> _https://icons8.com/_  
+> _https://icones.js.org/_  // Packages of icons to use in applications  
+> _https://www.logaster.com/amp/logo/?__twitter_impression=true_  // Generate your logo and brand  
+> _https://t.co/tVLX3iAiqi?amp=1_  // Icons and Photos For Everything  
+> _https://icons8.com/_  // Icons, illustrations, photos, music, and design tools  
 
 ## Colors
 > _https://palette.ninja/_  
@@ -56,6 +56,7 @@ It's a repository gathering resources about UI/UX.
 > _https://htmlcolorcodes.com/fr/_  
 > _https://encycolorpedia.com/2a341c_  
 > _https://flatuicolors.com/_  
+> _https://colorspark.app/_  // Playground to generate random color or gradient  
 
 ## Responsive
 > _https://responsively.app/_  
