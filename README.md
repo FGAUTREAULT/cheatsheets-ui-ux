@@ -59,22 +59,19 @@ It's a repository gathering resources about UI/UX.
 > _https://colorspark.app/_  // Playground to generate random color or gradient  
 
 ## Responsive
-> _https://responsively.app/_  
+> _https://responsively.app/_  // Open source tool to use with with responsive  
 
 ## Inspiration
 > _https://www.cssdesignawards.com/_  
 > _https://www.awwwards.com/_  
 
 ## Images
-> _https://www.klipartz.com/_  
-> _https://www.remove.bg/fr_  
-> _https://www.pngwing.com/_  
-> _https://www.smashingmagazine.com/2021/03/svg-generators/_  
+> _https://www.klipartz.com/_  // Find pngs & clipart  
+> _https://www.remove.bg/fr_  // Remove the background of an image  
+> _https://www.pngwing.com/_  // Find free pngs  
+> _https://www.smashingmagazine.com/2021/03/svg-generators/_  // List of tools around SVGs  
 
 
-
-# Statistics & survey
-> _https://uxtools.co/survey-2020/?s=03_
 
 
 
