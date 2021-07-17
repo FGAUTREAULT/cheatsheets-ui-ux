@@ -8,6 +8,13 @@ It's a repository gathering resources about UI/UX.
 > _https://bootcamp.uxdesign.cc/the-self-taught-ui-ux-designer-roadmap-in-2021-aa0f5b62cecb?s=09_  
 > _https://uxchecklist.github.io/_  
 
+## By Game
+> _https://color.method.ac/_  // Master Color wheel  
+> _https://www.pixact.ly/_  // Master pixel size  
+> _https://bezier.method.ac/_  // Master Bezier curve tool  
+> _http://www.typeconnection.com/_  // Master your font, typeface, etc.  
+> _http://www.hexinvaders.com/_  // Read HEX, master colors  
+
 ## Principles
 ### Gestlat
 > _https://uxdesign.cc/how-to-enhance-your-design-with-the-gestalt-principles-of-proximity-a7828452058b?s=09_
