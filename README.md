@@ -71,6 +71,7 @@ It's a repository gathering resources about UI/UX.
 ## Inspiration
 > _https://www.cssdesignawards.com/_  
 > _https://www.awwwards.com/_  
+> _https://uigarage.net/_  
 
 ## Images
 > _https://www.klipartz.com/_  // Find pngs & clipart  
