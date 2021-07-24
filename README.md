@@ -78,7 +78,7 @@ It's a repository gathering resources about UI/UX.
 > _https://www.remove.bg/fr_  // Remove the background of an image  
 > _https://www.pngwing.com/_  // Find free pngs  
 > _https://www.smashingmagazine.com/2021/03/svg-generators/_  // List of tools around SVGs  
-
+> _https://app.haikei.app/_  // SVG generators  
 
 
 
