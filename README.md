@@ -72,6 +72,7 @@ It's a repository gathering resources about UI/UX.
 > _https://www.cssdesignawards.com/_  
 > _https://www.awwwards.com/_  
 > _https://uigarage.net/_  
+> _https://tinyblocks.cc/_  
 
 ## Images
 > _https://www.klipartz.com/_  // Find pngs & clipart  
@@ -79,6 +80,8 @@ It's a repository gathering resources about UI/UX.
 > _https://www.pngwing.com/_  // Find free pngs  
 > _https://www.smashingmagazine.com/2021/03/svg-generators/_  // List of tools around SVGs  
 > _https://app.haikei.app/_  // SVG generators  
+> _https://resizer.in/_  // Resize and reduce noise  
+> _https://www.svggobbler.com/_  // Download any image from any site  
 
 
 
