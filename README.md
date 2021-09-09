@@ -111,4 +111,8 @@ It's a repository gathering resources about UI/UX.
 > 100 Things Every Designer Needs to Know About People  👍  
 > 100 MORE Things Every Designer Needs to Know About People  👍  
 
+## Tom Grever
+> Articulating Design Decisions  
 
+## David Kelley
+> Creative Confidence: Unleashing the Creative Potential  
