@@ -2,7 +2,7 @@
 
 It's a repository gathering resources about UI/UX.
 
-# Learning
+# 🎓 Learning 🎓
 ## Path
 > _https://github.com/togiberlin/ui-ux-designer-roadmap_  
 > _https://bootcamp.uxdesign.cc/the-self-taught-ui-ux-designer-roadmap-in-2021-aa0f5b62cecb?s=09_  
@@ -29,7 +29,7 @@ It's a repository gathering resources about UI/UX.
 
 
 
-# UI
+# 🎨 UI 🎨
 > _https://github.com/thedaviddias/Front-End-Design-Checklist_  // List to analyse and understand web designs  
 > _https://github.com/goabstract/Awesome-Design-Tools_  // UI kits, plugins and conference  
 > _https://www.thegoodlineheight.com/_  // Calculate the good line height for visibility  
@@ -86,7 +86,7 @@ It's a repository gathering resources about UI/UX.
 
 
 
-# Authors & Books
+# 📚 Authors & Books 📚
 ## Alan Cooper
 > About Face  
 > The Inmates Are Running the Asylum: Why High Tech Products Drive Us Crazy and How to Restore the Sanity  
